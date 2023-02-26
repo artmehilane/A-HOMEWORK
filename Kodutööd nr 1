@@ -1,1 +1,27 @@
+class Solution(object):
+    def twoSum(self, nums, target):
+        num_index = {}
+        ans = []
+        for i in range(len(nums)):
+            answer = target - nums[i]
+            if answer in num_index:
+                ans.append(num_index[answer])
+                ans.append(i)
+                return ans
+            num_index[nums[i]] = i
+        return ans
+        
+##
+    Ülesanne 1. two sum
+https://leetcode.com/problems/two-sum/
 
+Kirjeldus:
+- Antud on arv list mille sees on arvud ja antud ka vastus, nende arvude liitmisel pead saama vastava vastuse.
+
+Kuidas on see testitud?
+- Testitud leetcode poolt kasutades nende automaatteste.
+Kasutatud keel:
+- Python
+
+Kontroll-nimekiri
+- Ülesande automaattestid läbisid (automaattestid on lehel olemas)        
