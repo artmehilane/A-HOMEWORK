@@ -10,4 +10,15 @@ def smallerNumbersThanCurrent(nums):
         return vastus
 
 
+##
+programm, mis loeb kokku palju on väiksemaid numbreid arvust
+
+võrdleme elemente
+loenduri lähtestame nulliks ja suurendame iga kord kui leiame vaste
+
+Testitud leetcode poolt kasutades automaatteste
+
+Python 3
+
+
         
