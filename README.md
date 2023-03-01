@@ -1,2 +1,2 @@
 # CyberElite
-RAM0620 rühm A
+RAM0620 Group A
