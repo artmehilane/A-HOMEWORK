@@ -4,8 +4,8 @@
 
 ## Ülesanne 1 analüüs - Hugo, Elisabeth
 
-## Ülesanne 2 analüüs - Hugo, Rainis
+## Ülesanne 2 analüüs - Hugo, Elisabeth
 
 ## Ülesanne 3 analüüs - Tristan, Rainis
 
-## Ülesanne 4 analüüs - Tristan, Elisabeth
+## Ülesanne 4 analüüs - Tristan, Rainis
