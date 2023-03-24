@@ -2,10 +2,12 @@
 
 ### Kasutatud keel: Python 3.10
 
-## Ülesanne 1 analüüs - Hugo, Elisabeth
+## 1. ülesande analüüs - Hugo, Elisabeth
 
-## Ülesanne 2 analüüs - Hugo, Elisabeth
+Analüüsitud ülesannet 1.8
 
-## Ülesanne 3 analüüs - Tristan, Rainis
+## 2. ülesande analüüs - Hugo, Elisabeth
 
-## Ülesanne 4 analüüs - Tristan, Rainis
+## 3. ülesande analüüs - Tristan, Rainis
+
+## 4. ülesande analüüs - Tristan, Rainis
