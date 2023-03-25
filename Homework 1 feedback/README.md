@@ -8,6 +8,8 @@ Analüüsitud ülesannet 1.8
 
 ## 2. ülesande analüüs - Hugo, Elisabeth
 
+Analüüsitud ülesannet 1.2
+
 ## 3. ülesande analüüs - Tristan, Rainis
 
 ## 4. ülesande analüüs - Tristan, Rainis
