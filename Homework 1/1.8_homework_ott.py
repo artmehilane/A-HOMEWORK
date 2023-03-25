@@ -20,4 +20,8 @@ def reverse(x):
 
 test = 123
 print(reverse(test))
+#<<<<<<< OttVaan
+#comm
+=======
 #comment
+#>>>>>>> main
