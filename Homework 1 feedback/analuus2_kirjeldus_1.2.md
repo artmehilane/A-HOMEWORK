@@ -13,6 +13,7 @@ Programm peab eemaldama listist kindla väärtusega elemendid.
 
 3. Stiil
 - Võiks olla kompaktsem, vähem tühje ridu
+- Ülesande kirjeldus võiks olla nt README.md failis
 
 4. Töökord
 - kuigi print funktsioon on out of scope, siis tegelikult programm täidab ülesande
