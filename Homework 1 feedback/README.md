@@ -12,4 +12,8 @@ Analüüsitud ülesannet 1.2
 
 ## 3. ülesande analüüs - Tristan, Rainis
 
+Anlüüsitud ülesannet 1.6
+
 ## 4. ülesande analüüs - Tristan, Rainis
+
+Analüüsitud ülesannet 1.1
