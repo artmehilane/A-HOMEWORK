@@ -1,4 +1,4 @@
-# 1.6. Valid Parentheses
+# 1.1 Valid Parentheses
 Programmile on antud tundmatu, mis sisaldab teatud sulge ja ta peab arusaama, kas sulud on korrektselt kirjutatud või mitte 
 
 ## Analüüsi lühikirjeldus
