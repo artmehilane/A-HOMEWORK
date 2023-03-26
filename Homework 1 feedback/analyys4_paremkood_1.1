@@ -1,0 +1,11 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+        listl = []
+        sulud = {')': '(', '}': '{', ']': '['}
+        for element in s:
+            if element in sulud.values():
+                listl.append(element)
+            elif element in sulud.keys():
+                if not listl or sulud[element] != listl.pop():
+                    return False
+        return not listl
