@@ -29,7 +29,7 @@ def remove_element(numbers, value):
 
     return numbers_array
 
-    print(numbers_arra)
+    print(numbers_array)
 
 
 
