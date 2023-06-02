@@ -1,8 +1,8 @@
-### RSA authentication program
+# RSA authentication program
 The goal is to create a command line-based program that allows generating RSA keys and
 encrypt and decrypt text.
 
-# Program Features:
+### Program Features:
 1. RSA key pair generation:
 a. The program must be able to generate public and private keys.
 b. The public and private key must be stored in some file. e.g. public_key.txt
